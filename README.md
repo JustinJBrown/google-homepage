@@ -1,0 +1,2 @@
+ write a brief introduction for what the current project is and what skills you have demonstrated once you have completed it.
+ This project is going to be practicing the chrome developer tools. I will be cloning a simple version of the google homepage.
